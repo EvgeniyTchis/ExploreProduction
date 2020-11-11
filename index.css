@@ -1,0 +1,104 @@
+.page_header {
+color: rgb(23, 133, 170);
+font-size: 50px;
+font-family: sans-serif;
+}
+.title_div{
+    color: whitesmoke;
+    border: 3px solid  rgb(23, 133, 170);
+    text-align: center;
+    background-color: white;
+}
+#main_div{
+    color: whitesmoke;
+    border: 3px solid  rgb(23, 133, 170);
+    text-align: left;
+    background-color: white;
+}
+#menue_div{
+    color: whitesmoke;
+    border: 3px solid  rgb(23, 133, 170);
+    text-align: center;
+    background-color: white;
+}
+#explore_div{
+    color: white;
+    border: 3px solid white;
+    text-align: left;
+    
+    background-color:  rgb(23, 133, 170);
+}
+#explore{
+    font-size: 30px;
+    padding-left: 5%;
+    font-family: sans-serif;
+
+}
+.button {
+    background-color: white; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border: 3px solid  rgb(23, 133, 170);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 34px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 66%;
+    
+}
+.button_w {
+    background-color: white;
+    color:  rgb(23, 133, 170);
+} 
+.button_b {
+      background-color: rgb(23, 133, 170);
+}
+.button_s {
+       width: 200px;
+}  
+#button_div{
+    color: whitesmoke;
+    border: 3px solid  rgb(23, 133, 170);
+    background-color: white;
+    width: 50%;
+    float: left;
+}
+#image_div{
+    color: whitesmoke;
+    border: 3px solid  rgb(23, 133, 170);
+    background-color: white;
+    text-align: right;
+    float: right;
+    width: 49%;
+    height: 497px;
+}
+#camera{
+    width: 400px;
+    height: 400px
+}
+.search_bar{
+    background-color: white; 
+    border: none;
+    padding: 15px 32px;
+    border: 3px solid  rgb(23, 133, 170);
+    text-align: left;
+    display: inline-block;
+    font-size: 34px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 600px;
+    height: 50px;
+
+}
+#result_table{
+    width: 100%;
+    border: 2px solid  rgb(23, 133, 170);
+}
+.result_header{
+    color: rgb(23, 133, 170);
+    font-size: 20px;
+    
+}
