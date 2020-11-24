@@ -10,7 +10,7 @@ font-family: sans-serif;
     background-color: white;
 }
 #main_div{
-    color: whitesmoke;
+    color: rgb(23, 133, 170);
     border: 3px solid  rgb(23, 133, 170);
     text-align: left;
     background-color: white;
@@ -100,5 +100,6 @@ font-family: sans-serif;
 .result_header{
     color: rgb(23, 133, 170);
     font-size: 20px;
+    text-align: left;
     
 }

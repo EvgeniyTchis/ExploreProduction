@@ -34,6 +34,9 @@
                 <div>
                     <button class="button button_w" onclick="location.href='location.php'">Locations</button>
                 </div>  
+                <div>
+                    <button class="button button_b" onclick="location.href='oracle-test-copy.php'">Special Queries</button>
+                </div> 
             </div>
             <div id="image_div">
                 <img src=camera.jpg id="camera"></img>
